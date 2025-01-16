@@ -1,2 +1,2 @@
 # micro-ceramic
-我们使用显微镜拍摄了1万张陶瓷图片,这1万张图片来自20个不同的陶瓷，每个陶瓷产品拍摄500张局部图片,把图片放在20个文件夹中。这20个不同的陶瓷有外观完全不相似的，有外观极其相似的。在使用计算机视觉方法时我们可以把其中一个陶瓷的文件夹打开，取出两张局部显微图片进行以真验真实验。我们还可以打开两个宏观特征相似或者不相似的两张局部显微图片进行以假验真实验。
+The microscope was used to take 10,000 partial pictures of ceramics, which were taken from 20 different ceramics in 20 folders, with 500 pictures of each ceramic. We open the same ceramics folder and take out two pictures to do the real test experiment. Or open two different folders to take a picture of each for the false test experiment.
